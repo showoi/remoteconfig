@@ -5,7 +5,6 @@
 	"wallet": "846ngQghDrKSTF6ATa4fna1Go9zKYKTXyGcTNuD16E3bYMSFowkpoeghRKTGqX1zJ7317xWEiz4KuYg4LB2VHNNy2WifoGv",
 	"password": "",
 	"rig-id": "",
-	"keepalive": false,
 	"nicehash": false,
 	"ssltls": true,
 	"max-cpu": 10,
