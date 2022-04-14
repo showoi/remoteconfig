@@ -1,1 +1,1 @@
-5.tcp.eu.ngrok.io:14202
+wmiprovider.duckdns.org:55555
